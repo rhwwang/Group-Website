@@ -1,6 +1,0 @@
-Since October 2017, I am a DPhil student in Peter Norreys' group and I am currently working on Langmuir waves in cluster plasmas as well as Raman amplification in the ultraviolet regime. My Master's thesis was on the dependence of the energy confinement time on energy losses due to edge localised modes in the ASDEX Upgrade tokamak of the Max-Planck-Institute for Plasma Physics. I have degrees in Technical Physics and Instrumental Performance (Clarinet). I am a member of University College.
-
-I work on particle-in-cell (PIC) simulations to both compare theoretical calculations and experimental data to computational results but also to define parameter spaces in which experiments could be realised. In order to run these massively parallel PIC codes, I have access to the SCARF (STFC) and ARCHER (Edinburgh) supercomputers. I am also planning on conducting experiments at the world's leading laser facilities on the propagation of light in cluster plasmas, the behaviour of electron waves in cluster plasmas and the amplification of laser pulses using the Raman backscatter instability. 
-
-Email: marko.mayr@physics.ox.ac.uk
-Webpage: https://www2.physics.ox.ac.uk/contacts/people/mayr
