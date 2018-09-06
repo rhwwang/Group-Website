@@ -2722,7 +2722,6 @@ input, select, textarea {
 	position: absolute;
 	width: auto;
 	margin: auto;
-	height: auto;
+	height: 100%;
 	max-width: 100%;
-	max-height: 100%;
 }
