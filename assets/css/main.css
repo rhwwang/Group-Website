@@ -2706,6 +2706,14 @@ input, select, textarea {
 	box-sizing: content-box;
 }
 
+.featured-box.aspect-12 {
+	padding-bottom: calc( 2 / 1 * 100% );
+}
+
+.featured-box.aspect-23 {
+	padding-bottom: calc( 3 / 2 * 100% );
+}
+
 .featured-box.aspect-11 {
 	padding-bottom: calc( 1 / 1 * 100% );
 }
@@ -2720,8 +2728,13 @@ input, select, textarea {
 
 .featured-box > * {
 	position: absolute;
+	box-sizing: border-box;
 	width: auto;
 	margin: auto;
 	height: 100%;
 	max-width: 100%;
+}
+
+.gallery_element {
+	box-sizing: content-box;
 }
