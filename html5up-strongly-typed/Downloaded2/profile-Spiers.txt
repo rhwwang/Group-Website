@@ -1,8 +1,0 @@
-I am a DPhil student in Peter Norreys' group, working on proton radiography and auxiliary heating. I graduated from the University of Oxford with a degree in physics and began my DPhil in October 2017.
-
-My research is mostly centred on the proton radiography diagnostic, whereby a beam of protons is sent through a plasma interaction region. The deflection of the protons from their initially straight-line trajectories by fields in the plasma, allows deductions to be made about the fields by measuring the distribution of protons once they leave the interaction region. My projects regarding this diagnostic involve developing modelling capabilities to allow accurate prediction of proton radiographs given a field structure, investigating the feasibility of reconstructing quantities of interest from the data proton radiography generates, and evaluating the conditions under which proton radiography is able to provide useful data.
-
-My work consists primarily of computational work, utilising the Central Laser Facility’s SCARF system and the UK national supercomputer, ARCHER, to simulate laser-plasma interactions, as well as smaller-scale calculations and simulations using the output of these simulations, which can be conducted on a regular desktop computer. I am planning to contribute to experiments investigating auxiliary heating of inertial fusion plasmas on the Vulcan system at the CLF, with a view to scaling up to the Laboratory for Laser Energetics’ OMEGA laser system at the University of Rochester, and eventually Laser Mégajoule in Bordeaux. 
-
-Email: benjamin.spiers@physics.ox.ac.uk
-Webpage: https://www2.physics.ox.ac.uk/contacts/people/spiersb
